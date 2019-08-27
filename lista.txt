@@ -1,0 +1,13 @@
+\OTROS\
+\Office_2007_Enterprise_Español_+_Serial_Garantizado_Por_Luismi\
+.iso
+.ova
+.tar
+.deb
+.run
+.tar.gz
+.vbox-extpack
+.exe
+.msi
+.zip
+.mp3
